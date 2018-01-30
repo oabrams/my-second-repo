@@ -11,3 +11,6 @@ print('sup')
 =======
 print("hey tori")
 print ('confusion')
+print ("my name is tori engler")
+print("I love sweet potatoes")
+print("I was born in new york")
