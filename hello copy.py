@@ -11,6 +11,13 @@ print('sup')
 =======
 print("hey tori")
 print ('confusion')
+<<<<<<< HEAD
 
 print("my fave food is sweet potato")
 print ("I was born in New York")
+=======
+print ("my name is tori engler")
+print("I love sweet potatoes")
+print("I was born in new york")
+print('im a scorpio')
+>>>>>>> about-me
